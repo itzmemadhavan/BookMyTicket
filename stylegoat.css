@@ -1,0 +1,31 @@
+iframe{
+    margin-left: 50px;
+}
+.img{
+    padding-left: 20px;
+    border-radius: 150px;
+    width: 100px;
+}
+p{
+    padding-left: 50px;
+    
+}
+button:hover{
+    cursor: pointer;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.box1{
+    background-color: gray;
+    height: 150px;
+    padding-top:50px;   
+    padding-left: 50px;
+
+}
+.box2{
+    background-color: darkgray;
+}

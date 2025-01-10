@@ -1,0 +1,28 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+button{
+    cursor: pointer;
+    background-color: red;
+    width: 150px;
+    height: 40px;
+    color: white;
+}
+img{
+    padding-left: 20px;
+    border-radius: 150px;
+    width: 100px;
+}
+.box5{
+    background-color: darkgray;
+}
+.box6{
+    background-color: gray;
+    height: 150px;
+    padding-top:50px;   
+    padding-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
